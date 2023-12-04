@@ -1,7 +1,7 @@
 # HarmonyOS
 
 #### Description
-用来记录鸿蒙开发的学习
+用来记录鸿蒙开发的学习。
 
 #### Software Architecture
 Software architecture description
