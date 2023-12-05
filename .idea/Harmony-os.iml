@@ -5,6 +5,10 @@
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApplication/.hvigor" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApplication/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApplication/entry/.preview" />
+      <excludeFolder url="file://$MODULE_DIR$/MyApplication/oh_modules" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

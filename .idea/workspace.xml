@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8b1876b-4fc7-4ca1-a763-615254035a56" name="更改" comment="" />
+    <list default="true" id="f8b1876b-4fc7-4ca1-a763-615254035a56" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/@Prop和@Link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/ets/components/Header.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/ets/components/TaskItem.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/ets/components/TaskList.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/ets/components/TaskStatistics.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/ets/pages/ImagePage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/ets/pages/ItemPage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/ets/pages/PropPage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/ets/pages/StatePage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/ets/pages/UIAbility/Second.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/ets/pages/UIAbility/State.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/resources/base/media/ic_public_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/resources/base/media/ic_public_delete_filled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/resources/base/media/ic_public_refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/resources/base/media/mate60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyApplication/entry/src/main/resources/rawfile/mate60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIAbility.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UIAbility生命周期.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/生命周期.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Harmony-os.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Harmony-os.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +49,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Huawei/Harmony-os/MyApplication/entry/src/main/resources/rawfile",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Huawei\Harmony-os\MyApplication\entry\src\main\resources\rawfile" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -36,10 +72,17 @@
       <option name="presentableId" value="Default" />
       <updated>1701716250688</updated>
       <workItem from="1701716252227" duration="3000" />
+      <workItem from="1701720724643" duration="36959000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/MyApplication/entry/src/main/ets/entryability/EntryAbility.js" />
+        <option value="$PROJECT_DIR$/MyApplication/entry/src/main/ets/entryability/EntryAbility.js.map" />
+      </list>
+    </option>
   </component>
 </project>
